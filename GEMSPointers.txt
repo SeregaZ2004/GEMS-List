@@ -1,2 +1,11 @@
 --beginfile
-677206cb//0FFAD0//0F6152//0F6148//0F613E//0F6134//2//
+677206cb//0FFAD0//0F6152//0F6148//0F613E//0F6134//2//Sonic Spinball (U)
+f9f2bceb////06BE//06C4////6D0//2//Blood Shot (UE)
+409e5d14////2480//2486//248C//2492//2//Battletech (U)
+fdc80bfc//1FFB80//D676//D67C//D682//D688//2//AAAHH!!! Real Monsters (W)
+a3a7a8b5//F3090//6D4//6DA//6E0//6E6//2//Aero the Acro-Bat (U) [c]
+a451f9a1//1FE210//2EC4//2ECA//2ED0//2ED6//2//Aero the Acro-Bat 2 (E)
+39eb74eb//1FE210//2EC4//2ECA//2ED0//2ED6//2//Aero the Acro-Bat 2 (U) [!]
+d1845e8f//1FE9E0//1AA362//1AA368//1AA36E//1AA374//2//Aladdin (E) [!]
+ed427ea9//1FE9D0//1AA346//1AA34C//1AA352//1AA358//2//Aladdin (U) [!]
+fb5aacf0//1FD330//1A8D68//1A8D6E//1A8D74//1A8D7A//2//Aladdin (J) [!]
