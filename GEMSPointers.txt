@@ -9,3 +9,11 @@ a451f9a1//1FE210//2EC4//2ECA//2ED0//2ED6//2//Aero the Acro-Bat 2 (E)
 d1845e8f//1FE9E0//1AA362//1AA368//1AA36E//1AA374//2//Aladdin (E) [!]
 ed427ea9//1FE9D0//1AA346//1AA34C//1AA352//1AA358//2//Aladdin (U) [!]
 fb5aacf0//1FD330//1A8D68//1A8D6E//1A8D74//1A8D7A//2//Aladdin (J) [!]
+224256c7//7F970//1CD6C//1CD60//1CD54//1CD48//2//Andre Agassi Tennis (JE) (REV 01) [c][!]
+e9742041//FF3C0//3DA//3E0//3E6//3EC//2//Another World (E) [!]
+2da36e01//FF410//9BC//9C2//9C8//9CE//2//Out of this World (U) [!]
+58e297df//7FBF0//1428//142E//1434//143A//2//Ariel - The Little Mermaid (U) [!]
+1f07577f//1FFD90//1858//185E//1864//186A//2//Awesome Possum (W) [!]
+eaa2acb7//FFAA0//193C//1934//192C//1924//2//B.O.B (W) (REV 01) [!]
+b2e7cc49//E48B0//8B4//8BA//8C0//8C6//2//Baby's Day Out (U)
+b362b705//1E6B40//137D68//137D6E//137D74//137D7A//2//Ballz (W) [!]
