@@ -1,19 +1,39 @@
 --beginfile
-677206cb//0FFAD0//0F6152//0F6148//0F613E//0F6134//2//Sonic Spinball (U)
-f9f2bceb////06BE//06C4////6D0//2//Blood Shot (UE)
-409e5d14////2480//2486//248C//2492//2//Battletech (U)
-fdc80bfc//1FFB80//D676//D67C//D682//D688//2//AAAHH!!! Real Monsters (W)
-a3a7a8b5//F3090//6D4//6DA//6E0//6E6//2//Aero the Acro-Bat (U) [c]
-a451f9a1//1FE210//2EC4//2ECA//2ED0//2ED6//2//Aero the Acro-Bat 2 (E)
-39eb74eb//1FE210//2EC4//2ECA//2ED0//2ED6//2//Aero the Acro-Bat 2 (U) [!]
-d1845e8f//1FE9E0//1AA362//1AA368//1AA36E//1AA374//2//Aladdin (E) [!]
-ed427ea9//1FE9D0//1AA346//1AA34C//1AA352//1AA358//2//Aladdin (U) [!]
-fb5aacf0//1FD330//1A8D68//1A8D6E//1A8D74//1A8D7A//2//Aladdin (J) [!]
-224256c7//7F970//1CD6C//1CD60//1CD54//1CD48//2//Andre Agassi Tennis (JE) (REV 01) [c][!]
-e9742041//FF3C0//3DA//3E0//3E6//3EC//2//Another World (E) [!]
-2da36e01//FF410//9BC//9C2//9C8//9CE//2//Out of this World (U) [!]
-58e297df//7FBF0//1428//142E//1434//143A//2//Ariel - The Little Mermaid (U) [!]
-1f07577f//1FFD90//1858//185E//1864//186A//2//Awesome Possum (W) [!]
-eaa2acb7//FFAA0//193C//1934//192C//1924//2//B.O.B (W) (REV 01) [!]
-b2e7cc49//E48B0//8B4//8BA//8C0//8C6//2//Baby's Day Out (U)
-b362b705//1E6B40//137D68//137D6E//137D74//137D7A//2//Ballz (W) [!]
+677206cb//0FFAD0//0F6152//0F6148//0F613E//0F6134//2//Sonic Spinball (U)////
+fdc80bfc//1FFB80//D676//D67C//D682//D688//2//AAAHH!!! Real Monsters (W)////
+a3a7a8b5//F3090//6D4//6DA//6E0//6E6//2//Aero the Acro-Bat (U) [c]////
+a451f9a1//1FE210//2EC4//2ECA//2ED0//2ED6//2//Aero the Acro-Bat 2 (E)////
+39eb74eb//1FE210//2EC4//2ECA//2ED0//2ED6//2//Aero the Acro-Bat 2 (U) [!]////
+d1845e8f//1FE9E0//1AA362//1AA368//1AA36E//1AA374//2//Aladdin (E) [!]////
+ed427ea9//1FE9D0//1AA346//1AA34C//1AA352//1AA358//2//Aladdin (U) [!]////
+fb5aacf0//1FD330//1A8D68//1A8D6E//1A8D74//1A8D7A//2//Aladdin (J) [!]////
+224256c7//7F970//1CD6C//1CD60//1CD54//1CD48//2//Andre Agassi Tennis (JE) (REV 01) [c][!]////
+e9742041//FF3C0//3DA//3E0//3E6//3EC//2//Another World (E) [!]////
+2da36e01//FF410//9BC//9C2//9C8//9CE//2//Out of this World (U) [!]////
+58e297df//7FBF0//1428//142E//1434//143A//2//Ariel - The Little Mermaid (U) [!]////
+1f07577f//1FFD90//1858//185E//1864//186A//2//Awesome Possum (W) [!]////
+eaa2acb7//FFAA0//193C//1934//192C//1924//2//B.O.B (W) (REV 01) [!]////
+b2e7cc49//E48B0//8B4//8BA//8C0//8C6//2//Baby's Day Out (U)////
+b362b705//1E6B40//137D68//137D6E//137D74//137D7A//2//Ballz (W) [!]////
+81c9662b//E9740////449E////44AE//2//Barbie Super Model (U) [!]////
+1efa9d53//E9C30////8E9C//8EA2//8EA8//2//Barney's Hide & Seek Game (U) [!]////
+9eddeb3d////1DA714//1DA710//1DA70C//1DA704//2//Bass Masters Classic Pro Edition (W) [!]////
+caa044a1////474//47A//480//486//2//Batman - Revenge of the Joker (U) [!]////
+4a3225c0////20010//2000C//20008//20004//2//Batman Returns (U) [!]//NOTUNPACK//you need to unpack original banks by manualy. adresses should be writes as last 2 bytes. like this one: original $00027732 - should $00007732
+65a066ee////20010//2000C//20008//20004//2//Batman Returns (U) [T+Rus]//NOTUNPACK//you need to unpack original banks by manualy. adresses should be writes as last 2 bytes. like this one: original $00027732 - should $00007732
+409e5d14////2480//2486//248C//2492//2//Battletech (U)////
+1f86237b//F8E90//15A30//15A36//15A3C//15A42//3//Berenstain Bears', The - Camping Adventure (U) [!]////
+f9f2bceb////06BE//06C4////6D0//2//Blood Shot (UE)////
+3575a030//FF650//56C//572//578//57E//2//Body Count (E) [!]////
+d1e66017////140AA//140B0//140B6//140BC//2//Bonkers (W) [!]////
+00f225ac////9B4C//9B52//9B58//9B5E//2//Boxing Legends of the Ring (U) [!]////
+8fdaa9bb//7FA20//129EE//129F4////12A00//2//Caesars Palace (U) [!]////
+9b1c96c0//FB0B0//1BA4//1B9E//1B98//1BAA//2//Cal Ripken Jr. Baseball (U) [c][!]////
+ad217654//14C6D0//490//496//49C//4A2//2//Cannon Fodder (E) [!]////
+7672efa5//////E8A4//E8AA//E8B0//2//Captain Planet and the Planeteers (E) [!]////
+bf2cbd3a//////E1E0//E1E6//E1EC//2//Captain Planet and the Planeteers (U)////
+046a48de//FEBC0//1544//153C////152C//2//Chakan - The Forever Man (U) [!]////
+50217c80////E1504//E14FA//E14F0//E14E6//2//Chameleon Kid (J)////
+883e33db//F4620//181DE//181E4//181EA//181F0//2//Champions World Class Soccer (W) (M4) [!]////
+253512cf//B33B0//AC2A2//AC2A8//AC2AE//AC2B4//2//Championship Pool (U) [!]////
+5bc0dbb8////7552//7558//755E//7564//2//Chavez II (U)////
