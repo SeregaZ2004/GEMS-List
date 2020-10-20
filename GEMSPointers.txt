@@ -1,5 +1,4 @@
 --beginfile
-677206cb//0FFAD0//0F6152//0F6148//0F613E//0F6134//2//Sonic Spinball (U)////
 fdc80bfc//1FFB80//D676//D67C//D682//D688//2//AAAHH!!! Real Monsters (W)////
 a3a7a8b5//F3090//6D4//6DA//6E0//6E6//2//Aero the Acro-Bat (U) [c]////
 a451f9a1//1FE210//2EC4//2ECA//2ED0//2ED6//2//Aero the Acro-Bat 2 (E)////
@@ -22,6 +21,7 @@ caa044a1////474//47A//480//486//2//Batman - Revenge of the Joker (U) [!]////
 4a3225c0////20010//2000C//20008//20004//2//Batman Returns (U) [!]//NOTUNPACK//you need to unpack original banks by manualy. adresses should be writes as last 2 bytes. like this one: original $00027732 - should $00007732
 65a066ee////20010//2000C//20008//20004//2//Batman Returns (U) [T+Rus]//NOTUNPACK//you need to unpack original banks by manualy. adresses should be writes as last 2 bytes. like this one: original $00027732 - should $00007732
 409e5d14////2480//2486//248C//2492//2//Battletech (U)////
+86a75efe////2480//2486//248C//2492//2//Battletech (U) [T+Rus100]////
 1f86237b//F8E90//15A30//15A36//15A3C//15A42//3//Berenstain Bears', The - Camping Adventure (U) [!]////
 f9f2bceb////06BE//06C4////6D0//2//Blood Shot (UE)////
 3575a030//FF650//56C//572//578//57E//2//Body Count (E) [!]////
@@ -37,3 +37,50 @@ bf2cbd3a//////E1E0//E1E6//E1EC//2//Captain Planet and the Planeteers (U)////
 883e33db//F4620//181DE//181E4//181EA//181F0//2//Champions World Class Soccer (W) (M4) [!]////
 253512cf//B33B0//AC2A2//AC2A8//AC2AE//AC2B4//2//Championship Pool (U) [!]////
 5bc0dbb8////7552//7558//755E//7564//2//Chavez II (U)////
+b12c1bc1////F4E//F54////F60//2//Clay Fighter (U) [!]////
+35bff1fd////F0010//F000C//F0008//F0004//2//Cliffhanger (E)//NOTUNPACK//you need to unpack original banks by manualy. adresses should be writes as last 2 bytes. like this one: original $000F189A - should $0000189A
+9cbf44d3////F0010//F000C//F0008//F0004//2//Cliffhanger (U) [c][!]//NOTUNPACK//you need to unpack original banks by manualy. adresses should be writes as last 2 bytes. like this one: original $000F189A - should $0000189A
+7753a296//77180//578E0//578E6//578EC//578F2//2//Clue (U) [!]////
+1318e923////1CD750//1CD756//1CD75C//1CD762//3//Comix Zone (E)////part samples is ADPCM 4bit.
+7a6027b8////1CE0B8//1CE0BE//1CE0C4//1CE0CA//3//Comix Zone (J) [!]////part samples is ADPCM 4bit.
+17da0354////1CB744//1CB74A//1CB750//1CB756//3//Comix Zone (U) [!]////part samples is ADPCM 4bit.
+5f09fa41//FF3E0//CCB12//CCB18//CCB1E//CCB24//2//Cool Spot (E)////
+f024c1a1//FF3F0//CCA80//CCA86//CCA8C//CCA92//2//Cool Spot (U) [!]////
+5ff71877////19ABBC//19ABC2//19ABC8//19ABCE//2//Demolition Man (W) [!]////
+11194414////1048//1040//1038//1030//2//Doom Troopers - The Mutant Chronicles (U) [c][!]////
+1c07b337//2FFCD0//2475C6//2475CC//2475D2//2475D8//2//Earthworm Jim (E) [!]////
+df3acf59//2FFB30//247578//24757E//247584//24758A//2//Earthworm Jim (U) [!]////
+d57f8ba7//2FED80//257116//25711C////257128//2//Earthworm Jim 2 (U) [!]////
+aa0d4387//7ECF0//83BA//83C0//83C6//83CC//2//Home Alone (U) [!]////
+cbf87c14//7F9F0//965E//9664//966A//9670//2//Home Alone 2 - Lost in New York (U) [!]////
+b9709a99//1FEA20//1BE778//1BE77E//1BE784//1BE78A//2//Jungle Book, The (E) [!]////
+3fb6d92e//1FEA20//1BE778//1BE77E//1BE784//1BE78A//2//Jungle Book, The (U) [!]////
+448341f6//1E3240//B78//B7E//B84//B8A//2//Jurassic Park (E) [!]////
+ec8e5783//1E3240//B78//B7E//B84//B8A//2//Jurassic Park (J)////
+7b31deef//1E3240//B78//B7E//B84//B8A//2//Jurassic Park (U) [!]////
+98b4aa1b//1FED10//1FECE2//1FECE8//1FECEE//1FECF4//2//Jurassic Park - Rampage Edition (W) [!]////
+eb8360e6//1FD0F0//6F8//6FE//704//70A//2//NBA Jam (UE) (REV 01) [!]////
+10fa248f//1FFE50//370//376//37C//382//2//NBA Jam (W) (REV 00) [!]////
+e9ffcb37//2FFD30//6FE//704//70A//710//2//NBA Jam Tournament Edition (W) (REV 00) [!]////
+6e25ebf0//2FFD30//6FE//704//70A//710//2//NBA Jam Tournament Edition (W) (REV 01) [!]////
+ed50e75c//FF250//478//47E//484//48A//2//Pirates! Gold (U) [!]////
+6ddd1c6d//3F7380//DC6//DC0//DBA//DB4//3//Pocahontas (U) [!]////
+fb599b86//C19C0//65A2E//65A34////65A40//2//Power Monger (U) [!]////
+553289b3//CC150//9BF42//9BF48////9BF54//2//Power Monger (J)////
+61de6fe0////6D0//6D6////6E2//2//Prince of Persia (E)////
+13c181a4////73E//744////750//2//Prince of Persia (U) [!]////
+53445fe3////73E//744////750//2//Prince of Persia (U) [T+Rus]////
+85a93f8d//1E95B0//180B5E//180B64//180B6A//180B70//2//Robocop vs The Terminator (E)////
+bbad77a4//1E95B0//180B5E//180B64//180B6A//180B70//2//Robocop vs The Terminator (U) [!]////
+4f20cc81//1E95B0//180B5E//180B64//180B6A//180B70//2//Robocop vs The Terminator (U) [T+Rus]////
+677206cb//0FFAD0//0F6152//0F6148//0F613E//0F6134//2//Sonic Spinball (U)////
+11b5b590////1B220//1B218//1B210//1B208//2//Spider-Man - The Animated Series (W) [!]////
+8e89a9f3//3FDE80//43994//4399A//439A0//439A6//3//Toy Story (E) [!]////it have more, that one samples bank. it need special case for moding
+829fe313//3FD010//430AA//430B0//430B6//430BC//3//Toy Story (U) [!]////it have more, that one samples bank. it need special case for moding
+d38b3354//1FF110//1FEE9C//1FEE92//1FEE88//1FEE7E//3//Vectorman (W) [!]////
+c1a24088//2A8E50//2A8BDC//2A8BD2//2A8BC8//2A8BBE//3//Vectorman 2 (W) [!]////
+0b78ca97//FF4D0//710C//7104//70FC//70F4//2//X-Men (E)////
+f71b21b4//FF4D0//710C//7104//70FC//70F4//2//X-Men (U) [!]////
+710bc628//1FFEE0//4434//442C//4424//441C//3//X-Men 2 - Clone Wars (W) [!]////
+179a1aa2//EA900//6B54//6B5A////6B66//2//Zombies (E) [!]////samples should be 7.3k as max quality. old GEMS driver
+2bf3626f//EAB00//6B90//6B96////6BA2//2//Zombies Ate My Neighbors (U) [c][!]////samples should be 7.3k as max quality. old GEMS driver
